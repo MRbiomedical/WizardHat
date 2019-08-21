@@ -5,3 +5,5 @@ numpy>=1.13.0
 pylsl>=1.10.5
 scipy>=1.0.0
 bokeh>=0.13.0
+PyQt5==5.13.0
+PyQt5-sip==4.19.18
