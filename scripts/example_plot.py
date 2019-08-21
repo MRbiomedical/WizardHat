@@ -1,4 +1,4 @@
-"""Plot time series data streamed through a dummy LSL outlet.
+"""Plot time series data streamed through an LSL outlet.
 """
 
 import ble2lsl
